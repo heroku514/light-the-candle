@@ -1,0 +1,5 @@
+Light the Candle keeps one pretend match and one pretend candle on the phone. The candle starts dark. Strike the match, then light the candle. Lighting it spends the match. Blow the candle out and the spent match cannot light it again. The huge line says the candle is dark, the match is burning, the candle is lit, or the match is spent.
+
+The candle stays on this phone. Start a new candle when you want a fresh match.
+
+Light the Candle does not use an account, ads, a camera, a microphone, a clock, or a network connection. It does not light a real flame. The candle in the app is original.

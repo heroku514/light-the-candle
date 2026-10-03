@@ -1,0 +1,5 @@
+Light the Candle support
+
+Light the Candle keeps one pretend match and one pretend candle. Tap Strike the match, Light the candle, or Blow it out. The match works once. The huge line says what the candle is doing.
+
+The candle stays on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.

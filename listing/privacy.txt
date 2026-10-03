@@ -1,0 +1,5 @@
+Light the Candle privacy
+
+Light the Candle stores the current match and candle on this phone. The match is new, burning, or spent, and the candle is dark or lit.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a microphone, a clock, or a network connection. Nothing is sent off the phone.
